@@ -55,7 +55,7 @@
           <?php 
             include_once('classes/Project.php');
             include_once('classes/ProjectPhoto.php');
-            $Projects = Project::LoadCollection($Conn, "Active = 1", "", 2);
+            $Projects = Project::LoadCollection($Conn, "Active = 1", "Id DESC", 1, 2);
             foreach ($Projects as $Project) {
           ?>
 

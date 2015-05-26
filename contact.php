@@ -10,6 +10,8 @@
 <div class="container marg100">
         <div class="row">
           <div class="col-lg-8 col-md-8 col-sm-12">
+            <img src= "images/default/contact.jpg" style="width:100%"/>
+            <!--
             <div class="promo-block">
               <div class="promo-text">Contact Form</div>
               <div class="center-line"></div>
@@ -40,6 +42,7 @@
                 </form>
               </div>
             </div>
+          -->
           </div>
           <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="promo-block">
